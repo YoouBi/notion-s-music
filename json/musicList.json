@@ -1,37 +1,31 @@
-{
-  "albums": [
-    "New Jeans",
-    "Me & You",
-    "Electro Boy",
-    "Home",
-    "Proxy (Original Mix)"
-  ],
-  "trackNames": [
-    "New Jeans - Hurt",
-    "Alex Skrindo - Me & You",
-    "Kaaze - Electro Boy",
-    "Jordan Schor - Home",
-    "Martin Garrix - Proxy"
-  ],
-  "alubumArtworks": [
-    "뉴진스 - New Jeans.gif",
-    "뉴진스 - New Jeans.gif",
-    "뉴진스 - New Jeans.gif",
-    "뉴진스 - New Jeans.gif",
-    "뉴진스 - New Jeans.gif"
-  ],
-  "trackUrl" = [
-    "https://raw.githubusercontent.com/YoouBi/notion-s-music/master/music/NewJeans-Hurt.mp3",
-    "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3",
-    "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
-    "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-    "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
-  ],
-  "folder" = [
-    "highteenPopsong",
-    "highteenPopsong",
-    "highteenPopsong",
-    "highteenPopsong",
-    "highteenPopsong"]
-  ]
+[
+  {"albums": "New Jeans",
+  "trackNames": "New Jeans - Hurt",
+  "alubumArtworks" : "뉴진스 - New Jeans.gif",
+  "trackUrl" : "https://raw.githubusercontent.com/YoouBi/notion-s-music/master/music/NewJeans-Hurt.mp3",
+  "folder" : "highteenPopsong"},
+  
+  {"albums": "Me & You",
+  "trackNames": "Alex Skrindo - Me & You",
+  "alubumArtworks" : "뉴진스 - New Jeans.gif",
+  "trackUrl" : https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/2.mp3",
+  "folder" : "highteenPopsong"},
+  
+  {"albums": "Electro Boy",
+  "trackNames": "Kaaze - Electro Boy",
+  "alubumArtworks" : "뉴진스 - New Jeans.gif",
+  "trackUrl" : https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
+  "folder" : "highteenPopsong"},
+  
+  {"albums": "Home",
+  "trackNames": "Jordan Schor - Home",
+  "alubumArtworks" : "뉴진스 - New Jeans.gif",
+  "trackUrl" : https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
+  "folder" : "highteenPopsong"},
+  
+  {"albums": "Proxy (Original Mix)",
+  "trackNames": "Martin Garrix - Proxy",
+  "alubumArtworks" : "뉴진스 - New Jeans.gif",
+  "trackUrl" : https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3",
+  "folder" : "highteenPopsong"}
 }
